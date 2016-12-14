@@ -23,7 +23,7 @@ class Footer extends React.Component {
                         <ul className="list-inline quicklinks">
                             <li><a href="#">Privacy Policy</a>
                             </li>
-                            <li><a href="#">Terms of Use</a>
+                            <li><a href="#">Terms of Use.</a>
                             </li>
                         </ul>
                     </div>
