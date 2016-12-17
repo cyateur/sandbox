@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom'
 
 class Footer extends React.Component {
     render() {
@@ -23,7 +22,7 @@ class Footer extends React.Component {
                         <ul className="list-inline quicklinks">
                             <li><a href="#">Privacy Policy</a>
                             </li>
-                            <li><a href="#">Terms of Use</a>
+                            <li><a href="#">Terms of Use.</a>
                             </li>
                         </ul>
                     </div>
